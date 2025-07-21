@@ -1,0 +1,18 @@
+.banner-img {
+  height:100vh;
+  object-fit:cover;
+  background-size: cover;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.4);
+  padding:20px;
+  border-radius: 6px;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color:red;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
